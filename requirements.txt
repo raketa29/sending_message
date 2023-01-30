@@ -7,3 +7,8 @@ pytz==2022.7.1
 requests==2.28.2
 twilio==7.16.2
 urllib3==1.26.14
+
+pyAesCrypt~=6.0.0
+PyPDF3~=1.0.6
+googletrans~=3.0.0
+progressbar~=2.5
