@@ -131,3 +131,4 @@ config.py
 auth
 .env
 .msg_env
+.idea
